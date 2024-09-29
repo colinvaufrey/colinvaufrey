@@ -18,7 +18,9 @@
 
 De nombreux **patients** arrivent à l’hôpital ! Orientez-les vers les **services** adéquats et **occupez-vous d’eux** pour les **satisfaire**. Attention à ne pas trop les faire **attendre** ou les perdre en route !
 
-![Welcome GIF](./images/gifs/welcome.gif "Welcome GIF")
+<p align="center">
+  <img src="./images/gifs/welcome.gif" alt="Welcome GIF">
+</p>
 
 **Welcome** est un _**serious game**_ portant sur les concepts de **flux** et de **files d’attente** dans le domaine des **sciences de l’information** dans le **domaine de la santé**. Mon équipe de 3 personnes l’a hérité d’un groupe précédent et l’a **amélioré**. Il sert actuellement dans les cours d’**ISIS** à l’**INU Champollion**.
 
@@ -34,7 +36,9 @@ De nombreux **patients** arrivent à l’hôpital ! Orientez-les vers les **ser
 
 Dans ce **jeu de plateforme 2D**, vous incarnez **Wawa**, qui cherche à sortir des égouts dans lesquels il est perdu. Pour ce faire, il peut utiliser ses **wawabilities** pour déplacer des blocs de diverses manières afin de récupérer la **vanne** qui lui permettra de s’échapper.
 
-![Wawadventure GIF](./images/gifs/wawadventure.gif "Wawadventure GIF")
+<p align="center">
+  <img src="./images/gifs/wawadventure.gif" alt="Wawadventure GIF">
+</p>
 
 **Wawadventure** est un projet **scolaire** réalisé en **groupe de 7** dans le cadre de mon **master AMINJ**.
 
@@ -50,7 +54,9 @@ Dans ce **jeu de plateforme 2D**, vous incarnez **Wawa**, qui cherche à sortir 
 
 **Alg’audition** permet aux professionnels de santé de **tester** et **améliorer** leur **connaissance** de l’algorithmique de décision du projet ICOPE Audition. Il met les joueurs dans la peau d’un **médecin** devant **diagnostiquer** et **rediriger** des patients vers des **spécialistes**. En traitant les patients, le joueur **gagne de la monnaie** qu’il peut **dépenser** pour **décorer** sa **salle d’attente** !
 
-![Alg’audition GIF](./images/gifs/alg_audition.gif "Alg’audition GIF")
+<p align="center">
+  <img src="./images/gifs/alg_audition.gif" alt="Alg’audition GIF">
+</p>
 
 **Alg’audition** est un projet **scolaire** réalisé en **groupe de 5** dans le cadre de mon **master AMINJ** en partenariat avec le **gérontopôle** du **CHU de Toulouse**.
 
@@ -66,7 +72,9 @@ Dans ce **jeu de plateforme 2D**, vous incarnez **Wawa**, qui cherche à sortir 
 
 Vous vous réveillez dans un **monde mystérieux** et **nostalgique**, où vous devrez explorer des **donjons générés aléatoirement** pour **trouver des composants de PC** et les assembler pour vous échapper. Attention aux **statues** cherchant à vous éliminer !
 
-![ＶａｐｏｒＤｕｎｇｅｏｎ GIF](./images/gifs/vapor_dungeon.gif "ＶａｐｏｒＤｕｎｇｅｏｎ GIF")
+<p align="center">
+  <img src="./images/gifs/vapor_dungeon.gif" alt="ＶａｐｏｒＤｕｎｇｅｏｎ GIF">
+</p>
 
 **ＶａｐｏｒＤｕｎｇｅｏｎ** est un projet **scolaire** réalisé entièrement par moi-même dans le cadre de mon **master AMINJ**.
 
@@ -82,7 +90,9 @@ Vous vous réveillez dans un **monde mystérieux** et **nostalgique**, où vous 
 
 Rejoignez le **Buzz Express** et démontrez l’étendue de votre **culture générale** dans ce **jeu de quiz multijoueur en ligne**. **Défiez** vos amis ou des **inconnus** et **répondez** à des **questions** de diverses **catégories** pour **gagner des points** et **grimper dans le classement** ! Arriverez-vous à **devenir le meilleur** ?
 
-![Buzz Express GIF](./images/gifs/buzz_express.gif "Buzz Express GIF")
+<p align="center">
+  <img src="./images/gifs/buzz_express.gif" alt="Buzz Express GIF">
+</p>
 
 **Buzz Express** est un **projet personnel** qui me tient beaucoup à cœur et que je développe petit à petit depuis plusieurs années. Je développe en parallèle le **client** et le **serveur**. À ce jour, une version basique du jeu est **jouable en ligne**, et je m’efforce de rajouter de **nouvelles questions** ainsi que de **nouvelles fonctionnalités** régulièrement.
 
@@ -98,7 +108,9 @@ Rejoignez le **Buzz Express** et démontrez l’étendue de votre **culture gén
 
 Jerry en a assez de sa vie mouvementée et décide de vivre à la **ferme**. Heureusement pour lui, il a **hérité** d’un terrain particulièrement **fertile**… peut-être même un peu trop ! Cultivez des **légumes** tout en défendant votre **ferme** contre des **invasions de plantes mutantes** !
 
-![Contre-nature GIF](./images/gifs/contre_nature.gif "Contre-nature GIF")
+<p align="center">
+  <img src="./images/gifs/contre_nature.gif" alt="Contre-nature GIF">
+</p>
 
 **Contre-nature** est un **petit jeu sans prétention** réalisé en **une semaine** dans le cadre de la **Godot Wild Jam #36** avec deux amis qui m’ont aidé pour les **graphismes** et la **musique**.
 
@@ -114,7 +126,9 @@ Jerry en a assez de sa vie mouvementée et décide de vivre à la **ferme**. Heu
 
 Dans ce **jeu d’esquive** de **patterns**, vous incarnez un **moaï** devant **éviter** des **piques** apparaissant sous vos pieds. **Survivez** le plus longtemps possible **seul** ou **face à vos amis**, en **local** ou en **ligne** !
 
-![The Strafing Game Renewed GIF](./images/gifs/tsgr.gif "The Strafing Game Renewed GIF")
+<p align="center">
+  <img src="./images/gifs/tsgr.gif" alt="The Strafing Game Renewed GIF">
+</p>
 
 **The Strafing Game Renewed** est un **projet personnel** basé sur divers prototypes du même nom que j’ai réalisés au fil des ans. Il est actuellement **jouable en ligne** mais **n’incorpore plus le multijoueur en ligne**.
 
