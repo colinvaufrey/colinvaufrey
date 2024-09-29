@@ -1,4 +1,6 @@
-# Je suis Colin Vaufrey, et voici mon portfolio.
+# Colin Vaufrey, créateur de jeux vidéo et _serious games_.
+
+## Voici quelques-uns de mes projets les plus marquants !
 
 ![Wawadventure](./images/banners/banner_wawadventure.png "Wawadventure")
 
@@ -6,7 +8,7 @@ Dans ce **jeu de plateforme 2D**, vous incarnez **Wawa**, qui cherche à sortir 
 
 ![Wawadventure GIF](./images/gifs/wawadventure.gif "Wawadventure GIF")
 
-**Wawadventure** est un projet **scolaire** réalisé en **groupe de 5** dans le cadre de mon **master AMINJ**.
+**Wawadventure** est un projet **scolaire** réalisé en **groupe de 7** dans le cadre de mon **master AMINJ**.
 
 | **Résumé** | _**Jeu de plateforme 2D** avec **mécanique de déplacement de blocs**._ |
 |-|-|
@@ -76,7 +78,7 @@ Jerry en a assez de sa vie mouvementée et décide de vivre à la **ferme**. Heu
 
 ![Contre-nature GIF](./images/gifs/contre_nature.gif "Contre-nature GIF")
 
-**Contre-nature** est un **petit jeu sans prétention** réalisé en **une semaine** dans le cadre de la **Godot Wild Jam #××** avec deux amis qui m’ont aidé pour les **graphismes** et la **musique**.
+**Contre-nature** est un **petit jeu sans prétention** réalisé en **une semaine** dans le cadre de la **Godot Wild Jam #36** avec deux amis qui m’ont aidé pour les **graphismes** et la **musique**.
 
 | **Résumé** | _**Jeu de défense de ferme** avec **cultures de légumes**._ |
 |-|-|
