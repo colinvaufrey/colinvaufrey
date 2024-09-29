@@ -127,7 +127,7 @@ Jerry is tired of his hectic life and decides to live on the **farm**. Fortunate
 In this **pattern dodging** game, you play as a **moai** trying to **avoid** spikes appearing beneath your feet. **Survive** as long as possible **alone** or **against your friends**, in **local** or **online** mode!
 
 <p align="center">
-  <img src="./images/gifs/tsg_renewed.gif" alt="The Strafing Game Renewed GIF">
+  <img src="./images/gifs/tsgr.gif" alt="The Strafing Game Renewed GIF">
 </p>
 
 **The Strafing Game Renewed** is a **personal project** based on various prototypes of the same name that I have created over the years. It is currently **playable online** but **no longer incorporates online multiplayer**.
