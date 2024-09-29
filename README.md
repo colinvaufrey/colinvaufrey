@@ -2,6 +2,8 @@
 
 ## Voici quelques-uns de mes projets les plus marquants !
 
+**:fr: Français** | [:uk: English](./README_en.md)
+
 ![Wawadventure](./images/banners/banner_wawadventure.png "Wawadventure")
 
 Dans ce **jeu de plateforme 2D**, vous incarnez **Wawa**, qui cherche à sortir des égouts dans lesquels il est perdu. Pour ce faire, il peut utiliser ses **wawabilities** pour déplacer des blocs de diverses manières afin de récupérer la **vanne** qui lui permettra de s’échapper.
