@@ -1,8 +1,22 @@
-# Colin Vaufrey, video game creator and serious games developer.
+# Colin Vaufrey, game developer and creator of video games and serious games.
+
+[:fr: Français](https://github.com/colinvaufrey) | **:uk: English**
+
+## My Skills
+
+- 🖥️ **Development of video games**, **serious games**, and **software** 🖥️:
+  - **Unity** (C#);
+  - **Godot Engine** (GDScript);
+  - **Node.js** (JavaScript, TypeScript);
+  - **Python**;
+  - **SQL**…
+  - … with experience in **other languages** and **technologies**, and always the possibility of **learning** more!
+- 🎮 **Game design** 🎮;
+- 🎓 **Instructional engineering** 🎓;
+- 🖌️ Notions in **3D Modeling** 🖌️;
+- :fr: **Une maîtrise native du français** :fr:.
 
 ## Here are some of my most notable projects!
-
-[:fr: Français](./README.md) | **:uk: English**
 
 - [:hospital: Welcome](#welcome)
 - [:smiley_cat: Wawadventure](#wawadventure)
@@ -12,7 +26,7 @@
 - [:seedling: Contre-nature](#contre-nature)
 - [🗿 The Strafing Game Renewed](#the-strafing-game-renewed)
 
-## Welcome
+### Welcome
 
 ![Welcome](./images/banners/banner_welcome.png "Welcome")
 
@@ -20,6 +34,10 @@ Many **patients** are arriving at the hospital! Guide them to the appropriate **
 
 <p align="center">
   <img src="./images/gifs/welcome.gif" alt="Welcome GIF">
+</p>
+
+<p align="center">
+  <a href="https://aminj.itch.io/welcome">🎮 Play Welcome 🎮</a>
 </p>
 
 **Welcome** is a _**serious game**_ focusing on the concepts of **flow** and **queues** in the field of **information science** within the **healthcare domain**. My team of three inherited it from a previous group and has **improved** it. It is currently used in **ISIS** courses at **INU Champollion**.
@@ -30,7 +48,7 @@ Many **patients** are arriving at the hospital! Guide them to the appropriate **
 | **Technologies** | _**Unity** and **C#**._ |
 | **Key Elements** | — _**Continuation of an existing project** ;<br>— **User interface improvements** ;<br>— **Better software distribution (web format)** ;<br>— **Additional mini-game (timing game)**._ |
 
-## Wawadventure
+### Wawadventure
 
 ![Wawadventure](./images/banners/banner_wawadventure.png "Wawadventure")
 
@@ -38,6 +56,10 @@ In this **2D platformer**, you play as **Wawa**, who is trying to escape from th
 
 <p align="center">
   <img src="./images/gifs/wawadventure.gif" alt="Wawadventure GIF">
+</p>
+
+<p align="center">
+  <a href="https://poulpefaible.itch.io/wawadventure">🎮 Play Wawadventure 🎮</a>
 </p>
 
 **Wawadventure** is a **school project** completed in a **group of seven** as part of my **AMINJ master's program**.
@@ -48,7 +70,7 @@ In this **2D platformer**, you play as **Wawa**, who is trying to escape from th
 | **Technologies** | _**Unity** and **C#**._ |
 | **Key Elements** | — _**Tilemap and tilemap modification** ;<br>— **Block-moving mechanics (translations, rotations, switches)** ;<br>— **2D parkour with precision tricks**._ |
 
-## Alg’audition
+### Alg’audition
 
 ![Alg’audition](./images/banners/banner_algaudition.png "Alg’audition")
 
@@ -56,6 +78,10 @@ In this **2D platformer**, you play as **Wawa**, who is trying to escape from th
 
 <p align="center">
   <img src="./images/gifs/alg_audition.gif" alt="Alg’audition GIF">
+</p>
+
+<p align="center">
+  <a href="https://icope.rodriguez-vincent.fr/">🎮 Play Alg’audition 🎮</a>
 </p>
 
 **Alg’audition** is a **school project** carried out in a **group of five** as part of my **AMINJ master's program** in partnership with the **gerontology center** of the **Toulouse University Hospital**.
@@ -66,7 +92,7 @@ In this **2D platformer**, you play as **Wawa**, who is trying to escape from th
 | **Technologies** | _**Unity** and **C#**._ |
 | **Key Elements** | — _**Tree-like structure** ;<br>— **Shop** ;<br>— **Decorations**._ |
 
-## ＶａｐｏｒＤｕｎｇｅｏｎ
+### ＶａｐｏｒＤｕｎｇｅｏｎ
 
 ![ＶａｐｏｒＤｕｎｇｅｏｎ](./images/banners/banner_vapor_dungeon.png "ＶａｐｏｒＤｕｎｇｅｏｎ")
 
@@ -76,7 +102,7 @@ You wake up in a **mysterious** and **nostalgic** world, where you will have to 
   <img src="./images/gifs/vapor_dungeon.gif" alt="ＶａｐｏｒＤｕｎｇｅｏｎ GIF">
 </p>
 
-**ＶａｐｏｒＤｕｎｇｅｏｎ** is a **school project** completed entirely by me as part of my **AMINJ master's program**.
+**ＶａｐｏｒＤｕｎｇｅｏｎ** is a **school project** completed entirely by myself as part of my **AMINJ master's program**.
 
 | **Summary** | _**3D exploration game** with **procedurally generated dungeons**._ |
 |-|-|
@@ -84,7 +110,7 @@ You wake up in a **mysterious** and **nostalgic** world, where you will have to 
 | **Technologies** | _**Unity** and **C#**._ |
 | **Key Elements** | — _**Procedural dungeon generation (Wave Function Collapse)** ;<br>— **3D parkour with precision tricks** ;<br>— **Shaders & retro atmosphere**._ |
 
-## Buzz Express
+### Buzz Express
 
 ![Buzz Express](./images/banners/banner_buzz_express.png "Buzz Express")
 
@@ -102,7 +128,7 @@ Join the **Buzz Express** and demonstrate the extent of your **general knowledge
 | **Technologies** | Server: _**Node.js**, **TypeScript**, **SQLite**._<br>Client: _**Godot Engine**, **GDScript**._<br>Network: _**WebSocket**._ |
 | **Key Elements** | — _**Random questions** ;<br>— **Connection** and **data persistence** ;<br>— **Real-time online gameplay**._ |
 
-## Contre-nature
+### Contre-nature
 
 ![Contre-nature](./images/banners/banner_contre_nature.png "Contre-nature")
 
@@ -110,6 +136,10 @@ Jerry is tired of his hectic life and decides to live on the **farm**. Fortunate
 
 <p align="center">
   <img src="./images/gifs/contre_nature.gif" alt="Contre-nature GIF">
+</p>
+
+<p align="center">
+  <a href="https://the-kiwy.itch.io/contre-nature">🎮 Play Contre-nature 🎮</a>
 </p>
 
 **Contre-nature** is a **small game without pretensions** created in **one week** as part of the **Godot Wild Jam #36** with two friends who helped me with the **graphics** and **music**.
@@ -120,7 +150,7 @@ Jerry is tired of his hectic life and decides to live on the **farm**. Fortunate
 | **Technologies** | _**Godot Engine** and **GDScript**._ |
 | **Key Elements** | — _**Editable terrain** ;<br>— **Vegetable cultivation** ;<br>— **Enemies targeting crops** ;<br>— **Adaptive music**._ |
 
-## The Strafing Game Renewed
+### The Strafing Game Renewed
 
 ![The Strafing Game Renewed](./images/banners/banner_tsg.png "The Strafing Game Renewed")
 
@@ -137,3 +167,16 @@ In this **pattern dodging** game, you play as a **moai** trying to **avoid** spi
 | **My Role** | _**Complete game creation**._ |
 | **Technologies** | _**Godot Engine** and **GDScript**._ |
 | **Key Elements** | — _**Grid-based movement** ;<br>— **Procedural patterns** ;<br>— **Local and online multiplayer**._ |
+
+### Other works and experiments
+
+#### VR Game on Nutrition
+
+Created in **2 days** with students from [**ISIS**](https://www.univ-jfc.fr/ecole-dingenieurs/informatique-pour-la-sante): in this **virtual reality** experience, players can choose foods and see their blood sugar, cholesterol levels, etc., evolve in real-time.
+**Technologies**: _**Unity** and **C#**._
+
+[![VR Game on Nutrition](https://img.youtube.com/vi/z3opUFHFKTo/maxresdefault.jpg)](https://www.youtube.com/watch?v=z3opUFHFKTo)
+
+<p align="center">Click on the image to see the video.</p>
+
+#### Other projects will be added soon!
