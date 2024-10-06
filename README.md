@@ -14,7 +14,7 @@
 - 🎮 **Game design** 🎮 ;
 - 🎓 **Ingénierie pédagogique** 🎓 ;
 - 🖌️ Bases en **Modélisation 3D** 🖌️ ;
-- :uk: **Ease in the use of English** :uk:.
+- :uk: **Ease in the use of English** :uk: .
 
 ## Voici quelques-uns de mes projets les plus marquants !
 
