@@ -14,7 +14,7 @@
 - 🎮 **Game design** 🎮 ;
 - 🎓 **Ingénierie pédagogique** 🎓 ;
 - 🖌️ Bases en **Modélisation 3D** 🖌️ ;
-- :uk: **Ease in the use of English** :uk: .
+- :uk: **Ease in the use of English** :us:.
 
 ## Voici quelques-uns de mes projets les plus marquants !
 
@@ -40,7 +40,7 @@ De nombreux **patients** arrivent à l’hôpital ! Orientez-les vers les **ser
   <a href="https://aminj.itch.io/welcome">🎮 Jouer à Welcome 🎮</a>
 </p>
 
-**Welcome** est un _**serious game**_ portant sur les concepts de **flux** et de **files d’attente** dans le domaine des **sciences de l’information** dans le **domaine de la santé**. Mon équipe de 3 personnes l’a hérité d’un groupe précédent et l’a **amélioré**. Il sert actuellement dans les cours d’[**ISIS** à l’**INU Champollion**](https://www.univ-jfc.fr/ecole-dingenieurs/informatique-pour-la-sante).
+**Welcome** est un _**serious game**_ portant sur les concepts de **flux** et de **files d’attente** dans le domaine des **sciences de l’information** pour **la santé**. Mon équipe de 3 personnes l’a hérité d’un groupe précédent et l’a **amélioré**. Il sert actuellement dans les cours d’[**ISIS** à l’**INU Champollion**](https://www.univ-jfc.fr/ecole-dingenieurs/informatique-pour-la-sante).
 
 | **Résumé** | _**Serious game** sur les **flux** et les **files d’attente** dans le **domaine de la santé**._ |
 |-|-|
